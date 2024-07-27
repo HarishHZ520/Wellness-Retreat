@@ -252,6 +252,7 @@ const DataItems = () => {
                                     src={item.image}
                                     alt={item.title}
                                     className='w-full md:w-1/2 h-1/2 rounded-lg object-cover'
+                                    loading='lazy'
                                 />
                                 <h3 className='text-xl font-semibold'>{item.title}</h3>
                                 <div className='relative grid justify-items-stretch'>

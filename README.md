@@ -27,3 +27,7 @@ Start the development server:
 
 <!-- in terminal -->
 npm run dev
+
+### Deployed URL
+
+<https://wellness-retreaty.netlify.app/>
